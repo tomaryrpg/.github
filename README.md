@@ -1,2 +1,2 @@
 # .github
-TomaryRPGa
+TomaryRPG
